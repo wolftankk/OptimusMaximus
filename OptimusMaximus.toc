@@ -1,0 +1,18 @@
+## Interface: 50001
+## Title: Optimus Maximus
+## Notes: Binding any key for your wow.
+## Version: @project-version@
+## Author: wolftankk
+## E-Mail: wolftankk@gmail.com
+## X-URL: http://blog.wolftankk.com
+## SavedVariables: OptimusMaximusDB
+## X-Category: Miscellaneous
+## X-Min-Interface: 40300
+## X-Max-Interface: 50001
+
+#libs#
+embends.xml
+
+Bindings.xml
+
+OptimusMaximus.lua
